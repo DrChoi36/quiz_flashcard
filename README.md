@@ -1,6 +1,6 @@
-# 🧠 NEWSTART Quiz (Deep Learning Flashcards)
+# 🧠 Quiz Flashcard application
 
-**NEWSTART Quiz**는 새로운 내용을 공부할 때 복습할 수 있도록 돕는 웹 기반 플래시카드 퀴즈 애플리케이션입니다.
+**Quiz Flashcard**는 새로운 내용을 공부할 때 복습할 수 있도록 돕는 웹 기반 플래시카드 퀴즈 애플리케이션입니다.
 
 직관적인 카드 뒤집기 인터페이스를 통해 용어, 개념, 작동 원리 등을 효과적으로 암기할 수 있습니다.
 
