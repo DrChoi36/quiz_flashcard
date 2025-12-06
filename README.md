@@ -4,7 +4,8 @@
 
 직관적인 카드 뒤집기 인터페이스를 통해 용어, 개념, 작동 원리 등을 효과적으로 암기할 수 있습니다.
 
-[Screenshot](screenshot.png)
+![Quiz Flashcard_Screenshot](./screenshot.png)
+
 demo: 
 
 ## ✨ 주요 기능 (Key Features)
