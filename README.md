@@ -6,7 +6,7 @@
 
 ![Quiz Flashcard_Screenshot](./screenshot.png)
 
-demo: 
+<a href="https://drchoi36.github.io/quiz_flashcard/" target="_blank">🚀 데모 실행하기 (Live Demo)</a>
 
 ## ✨ 주요 기능 (Key Features)
 
